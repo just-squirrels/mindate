@@ -1,6 +1,6 @@
 {
   "name": "@sqrls/mindate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A super minimal Date library, inspired by date-fns",
   "main": "dist/index.js",
   "scripts": {
