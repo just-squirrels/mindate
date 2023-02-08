@@ -1,0 +1,32 @@
+{
+  "name": "@sqrls/mindate",
+  "version": "0.1.0",
+  "description": "A super minimal Date library, inspired by date-fns",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-squirrels/mindate.git"
+  },
+  "keywords": [
+    "node",
+    "date"
+  ],
+  "author": "just squirrels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/just-squirrels/mindate/issues"
+  },
+  "homepage": "https://github.com/just-squirrels/mindate#readme",
+  "devDependencies": {
+    "@jest/globals": "^29.4.2",
+    "@tsconfig/node18": "^1.0.1",
+    "@types/node": "^18.13.0",
+    "ts-jest": "^29.0.5",
+    "typescript": "^4.9.5"
+  }
+}
